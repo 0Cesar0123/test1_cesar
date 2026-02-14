@@ -6,3 +6,10 @@ Universidad tecnológica de la selva
 
 ## Lugar de procedencia
 Ocosingo, Chiapas, 2026
+
+## Nombre completo
+César Heriberto Núñez Juárez
+
+## Carrera
+Desarrollo de software multiplataforma Area de TIC
+
